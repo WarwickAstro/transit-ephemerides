@@ -1,0 +1,13 @@
+# List of observatories to output observable transits
+# (comment out those not needed)
+#
+# name latitude longitude low_alt_limit noondate noontime(UTC) elevation
+#
+# noondate is only used to initialise a dictionary, not important
+# but noontime should be set to 12UTC +/- Timezone offset
+#
+LaPalma 28 40 00 -17 52 00 30. 2014-12-12 12:00:00 2326
+#Paranal -24 37 38 -70 24 15 30. 2014-12-12 08:00:00 2518
+#Helmos 37 59 04 22 11 46 25. 2014-12-12 14:00:00 2340
+#SanPedro 31 02 39 -115 27 49 30. 2014-12-12 06:00:00 2830
+#TNT 18 34 00 98 28 00 20. 2014-12-12 19:00:00 2457

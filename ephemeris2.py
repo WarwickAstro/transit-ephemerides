@@ -169,6 +169,7 @@ for line in observatories:
 			observatory,lat[0],lat[1],lat[2],lon[0],lon[1],lon[2],lowlim,obsndate,obsntime,elev = line.split()
 		except ValueError:
 			print "Problem splitting observatory file %s..." % (args.observatories)
+                        print line
 			print "Ensure the file has the following format with 1 line per observatory:\n"
 			print "\tname latitude longitude alt_limit noondate noontime(UTC) elevation"
 			print "e.g."

@@ -3,3 +3,4 @@
 .*.swp
 planet_eph2/*
 .python-version
+*.eph2

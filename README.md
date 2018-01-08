@@ -1,7 +1,7 @@
-Ephemeris2
-----------
+Transit Ephemerides
+-------------------
 
-This is a slightly updated version of Neale Gibson's Ephemeris code
+This is an updated version of Neale Gibson's Ephemeris code for calculating the times of exoplanet transits
 
 ## Synopsis
 
@@ -12,7 +12,7 @@ This script works out the visible transits for a list of objects and observatori
 
 There are several utility scripts also available in the ```utils/``` directory:
 
-   1. whatsUpTonight.py - shows which objects are transiting tonight
+   1. whatsUpTonight.py - shows which objects are transiting tonight (currently for LaPalma only)
    1. refineEphemeris.py - refines the period to match a given transit mid-point
    1. updateNGEphem.py - grabs updated planet parameters from ETD *needs updating*
 
@@ -28,14 +28,14 @@ where the observatory required is uncommented in the ```observatories2``` file. 
 
 ## Motivation
 
-To study planet transits you need to know when they are :)
+To study exoplanet transits you need to know when they occur
 
 ## Installation
 
 Clone this repo using:
 
 ```
-git clone git@github.com:NITES-40cm/ephemeris2.git
+git clone git@github.com:WarwickAstro/transit-ephemerides.git
 ```
 
 ## Contributors

@@ -1,9 +1,0 @@
-# Visible transits from LaPalma
-#   Objects :    RA         Dec
-# 1SWASPJ234318.41+295556.5 [23 43 18.41] [+29 55 56.5]
-# Date range : 02/12/2017 - 02/02/2018 
-#
-#    HJD          Object      Date     Time/UT      Window         HA limits             Alt            Transit type?        MoonAng      % Illuminated
-#
-2458102.38313  1SWASPJ234318.41+295556.5  14/12/2017  21:11:42  [19:53-22:29]  [00:33W-03:09W]  [+82.5 +65.6 +48.9]  Full Transit > 35      131          010   
-2458119.33665  1SWASPJ234318.41+295556.5  31/12/2017  20:04:46  [18:46-21:22]  [00:33W-03:09W]  [+82.5 +65.7 +48.9]  Egress + mid > 35      077          097   
